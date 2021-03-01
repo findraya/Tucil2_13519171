@@ -1,0 +1,9 @@
+satu.
+dua, satu.
+tiga, dua.
+empat, dua, tujuh.
+lima, dua, tiga, empat.
+enam, lima.
+tujuh.
+delapan, lima.
+sembilan, enam, delapan.
